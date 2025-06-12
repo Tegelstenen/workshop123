@@ -1,0 +1,12 @@
+{
+    "project": {
+        "name": "Sample Project",
+        "version": "1.0.0",
+        "description": "A project for practicing GitHub commits",
+        "features": [
+            "Version control practice",
+            "GitHub workflow",
+            "Sample code"
+        ]
+    }
+} 
